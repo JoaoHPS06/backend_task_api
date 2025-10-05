@@ -2,6 +2,8 @@
 
 This is a RESTful API for a task management system. The project is built with Python, Flask, and connects to a PostgreSQL database.
 
+**The starter.py file serves as the main entry point for running this API.**
+
 ## Features
 -   Full CRUD (Create, Read, Update, Delete) for tasks.
 -   User registration and login system.
