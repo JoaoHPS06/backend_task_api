@@ -10,7 +10,7 @@ The repository contains two implementations of the same Task Management API, eac
 
 ## Projects
 
-1.  **[API with Flask and PostgreSQL](./gerenciador_tarefas/):** A complete RESTful implementation using a relational database (SQL).
+1.  **[API with Flask and PostgreSQL](./gerenciamento_tarefas/):** A complete RESTful implementation using a relational database (SQL).
 2.  **[API with Flask and MongoDB](./gerenciamento_tarefas_mongo/):** A re-implementation of the same API using a document database (NoSQL).
 
 ## Technologies and Concepts Covered
